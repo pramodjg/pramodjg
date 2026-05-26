@@ -1,6 +1,6 @@
 🫴 <h1>About Me </h1><br/>
-Hi there 👋, I'm <b>Pramod J George</b>
-📱 Mobile Dev by passion | Flutter & Kotlin enthusiast | Always shipping something cool <br/>
+Hi there 👋, I'm <b>Pramod J George</b><br/>
+<h4>📱 Mobile Dev by passion | Flutter & Kotlin enthusiast | Always shipping something cool </h4><br/>
 
 🚀 Building cross-platform magic with Flutter, React Native & SwiftUI <br/>
 🌱 Currently leveling up in ReactJS — because why stop at mobile? <br/>
