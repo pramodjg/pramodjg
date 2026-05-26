@@ -1,16 +1,16 @@
-🫴 About Me
-Hi there 👋, I'm Pramod J George
-📱 Mobile Dev by passion | Flutter & Kotlin enthusiast | Always shipping something cool
+🫴 <h1>About Me </h1><br/>
+Hi there 👋, I'm <b>Pramod J George</b>
+📱 Mobile Dev by passion | Flutter & Kotlin enthusiast | Always shipping something cool <br/>
 
-🚀 Building cross-platform magic with Flutter, React Native & SwiftUI
-🌱 Currently leveling up in ReactJS — because why stop at mobile?
-⚡ I speak fluent Dart, Kotlin, and occasionally JavaScript
-🔥 Obsessed with clean UI, smooth animations & apps that just work
-🤝 Open to collabs on mobile projects — let's build something awesome!
-📫 Drop a line: pramod.jgeorge@gmail.com
+🚀 Building cross-platform magic with Flutter, React Native & SwiftUI <br/>
+🌱 Currently leveling up in ReactJS — because why stop at mobile? <br/>
+⚡ I speak fluent Dart, Kotlin, and occasionally JavaScript <br/>
+🔥 Obsessed with clean UI, smooth animations & apps that just work <br/>
+🤝 Open to collabs on mobile projects — let's build something awesome! <br/>
+📫 Drop a line: pramod.jgeorge@gmail.com <br/>
 
 
-"Code it. Ship it. Iterate."
+<h3>"Code it. Ship it. Iterate."</h3>h3>
 
  
 <table width="320px">
