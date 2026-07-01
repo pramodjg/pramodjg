@@ -10,7 +10,7 @@ Hi there 👋, I'm <b>Pramod J George</b><br/>
 📫 Drop a line: pramod.jgeorge@gmail.com <br/>
 
 
-<h3>"Code it. Ship it. Iterate."</h3>h3>
+<h3>"Code it. Ship it. Iterate."</h3>
 
  
 <table width="320px">
